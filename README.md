@@ -15,7 +15,7 @@ This contains the data of ~31k HSC-WISE AGN candidates at 0.5<z<1.5 within our a
 | p_obsc   | Probability of obscured (type2) AGN. Derivde from multi-lognormal fits in g-W3 vs redshift figure.      |
 | ang_class   | Classification: 0:(unobscured, type1) 1:(obscured, type2) 2:(unclassificable)      |
 | log_stellar_mass_mean   | GRAHSP: mean stellar mass      |
-| log_stellar_mass_mean   | GRAHSP: likelihood-weighted mean stellar  |
+| log_stellar_lmass_mean   | GRAHSP: likelihood-weighted mean stellar  |
 | log_L_AGN_mean   | GRAHSP: luminosity of AGN      |
 | log_L_AGN_lmean   | GRAHSP: likelihood-weighted luminosity of AGN  |
 | chi2_mean   | GRAHSP: chi2      |
